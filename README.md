@@ -101,6 +101,8 @@ I maintain [**19 public Docker images**](https://hub.docker.com/u/andersonmavi30
 
 ---
 
+"The network engineer who can only configure devices through a CLI is not obsolete yet — but they will be within a decade."
+
 <div align="center">
   
   ### 💬 Let's Connect

@@ -101,7 +101,6 @@ I maintain [**19 public Docker images**](https://hub.docker.com/u/andersonmavi30
 
 ---
 
-"The network engineer who can only configure devices through a CLI is not obsolete yet — but they will be within a decade."
 
 <div align="center">
   
@@ -112,5 +111,11 @@ I maintain [**19 public Docker images**](https://hub.docker.com/u/andersonmavi30
   <a href="https://gitlab.com/andersonmavi30/profile">GitLab</a> • 
   <a href="https://hub.docker.com/u/andersonmavi30">Docker Hub</a> • 
   <a href="https://user.pnetlab.com/store/labs/detail?id=16035210484490">PNetLab</a>
+
+</div>
+
+<div align="center">
+
+"The network engineer who can only configure devices through a CLI is not obsolete yet — but they will be within a decade."
 
 </div>

@@ -1,6 +1,6 @@
 <div align="center">
   
-  ![Banner](https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:161b22,100:21262d&height=200&section=header&text=Anderson%20Martinez%20Virviescas&fontSize=40&fontColor=00ff88&animation=fadeIn&fontAlignY=35&desc=NetDevOps%20Engineer%20%7C%20Network%20Automation%20Specialist&descAlignY=55&descSize=18)
+  ![Banner](https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:161b22,100:21262d&height=200&section=header&text=Anderson%20Martinez%20Virviescas&fontSize=40&fontColor=00ff88&animation=fadeIn&fontAlignY=35&desc=Network%20Administrator%20%7C%20Firewall%20Administrator%20%7C%20Linux%20Administrator%20%7C%20NetDevOps%20-%20Network%20Automation%20Specialist&descAlignY=55&descSize=16)
 
 </div>
 
@@ -27,7 +27,7 @@
 
 ## 🚀 About Me
 
-Network Administrator & Firewall Administrator with hands-on experience in multi-vendor network and infrastructure administration, but now I've background on NetDevOps - Network Automation and DevNet technologies adnd I'm transforming network operations through code. I automate multi-vendor networks and build CI/CD pipelines for network infrastructure.
+Network Administrator & Firewall Administrator with hands-on experience in multi-vendor network and infrastructure administration, but now I've background on NetDevOps - Network Automation and DevNet technologies and I'm transforming network operations through code. I automate multi-vendor networks and build CI/CD pipelines for network infrastructure.
 
 - 🔧 **Network Administrator:** Cisco, Aruba, Dell, HP, Allied Telesis, MikroTik, Ubiquiti
 - 🛡️ **Firewall Administrator:** Fortinet (FortiGate, FortiAnalyzer, FortiManager, FortiWeb, FortiEMS, FortiAuthenticator), Palo Alto Networks, Check Point
@@ -57,20 +57,19 @@ I bridge the gap between traditional NetOps and modern DevOps practices — auto
 
 | Project | Description | Stars | Tech |
 |---------|-------------|-------|------|
-| **[network_automation](https://github.com/andersonmavi30/network_automation)** | Multi-vendor NetDevOps CI/CD labs | ⭐ 2 | Ansible/AWX, Python, NetBox, Batfish |
-| **[firewall_automation](https://github.com/andersonmavi30/firewall_automation)** | Firewall automation & CI/CD | ⭐ 1 | Python, Ansible |
-| **[docker_network_automation](https://github.com/andersonmavi30/docker_network_automation)** | NetDevOps Docker environment — [19 public images](https://hub.docker.com/u/andersonmavi30) | ⭐ 4 | Docker, Dockerfile |
-| **[containerlab](https://github.com/andersonmavi30/containerlab)** | Infrastructure as Code labs | ⭐ 1 | Containerlab |
+| **[network_automation](https://github.com/andersonmavi30/network_automation)** | Multi-vendor NetDevOps CI/CD labs | ⭐️ 2 | Ansible/AWX, Python, NetBox, Batfish |
+| **[firewall_automation](https://github.com/andersonmavi30/firewall_automation)** | Firewall automation & CI/CD | ⭐️ 1 | Python, Ansible |
+| **[docker_network_automation](https://github.com/andersonmavi30/docker_network_automation)** | NetDevOps Docker environment — [19 public images](https://hub.docker.com/u/andersonmavi30) | ⭐️ 4 | Docker, Dockerfile |
+| **[containerlab](https://github.com/andersonmavi30/containerlab)** | Infrastructure as Code labs | ⭐️ 1 | Containerlab |
 
 ---
 
 ## 🛠️ Tech Stack
-
 **Network & Security:**
 ![Cisco](https://img.shields.io/badge/Cisco-049FD9?style=flat&logo=cisco&logoColor=white)
 ![Fortinet](https://img.shields.io/badge/Fortinet-EE2E24?style=flat&logo=fortinet&logoColor=white)
-![Palo%20Alto](https://img.shields.io/badge/Palo_Alto-FF6B35?style=flat)
-![Check%20Point](https://img.shields.io/badge/Check_Point-FFCC00?style=flat)
+![Palo Alto](https://img.shields.io/badge/Palo_Alto-FF6B35?style=flat)
+![Check Point](https://img.shields.io/badge/Check_Point-FFCC00?style=flat)
 
 **Automation & DevOps:**
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
@@ -108,7 +107,7 @@ I maintain [**19 public Docker images**](https://hub.docker.com/u/andersonmavi30
   
   <a href="https://www.linkedin.com/in/anderson-martinez-virviescas-b5b79b106">LinkedIn</a> • 
   <a href="https://youtube.com/@andersonmvnetworks">YouTube</a> • 
-  <a href="https://gitlab.com/andersonmavi30">GitLab</a> • 
+  <a href="https://gitlab.com/andersonmavi30/profile">GitLab</a> • 
   <a href="https://hub.docker.com/u/andersonmavi30">Docker Hub</a> • 
   <a href="https://user.pnetlab.com/store/labs/detail?id=16035210484490">PNetLab</a>
 

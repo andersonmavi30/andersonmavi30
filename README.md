@@ -15,7 +15,7 @@
   <a href="https://youtube.com/@andersonmvnetworks">
     <img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" />
   </a>
-  <a href="https://gitlab.com/andersonmavi30">
+  <a href="https://gitlab.com/andersonmavi30/profile">
     <img src="https://img.shields.io/badge/GitLab-FC6D26?style=for-the-badge&logo=gitlab&logoColor=white" />
   </a>
   <a href="https://hub.docker.com/u/andersonmavi30">
@@ -27,15 +27,17 @@
 
 ## 🚀 About Me
 
-NetDevOps Engineer transforming network operations through code. I automate multi-vendor networks and build CI/CD pipelines for network infrastructure.
+Network Administrator & Firewall Administrator with hands-on experience in multi-vendor network and infrastructure administration, but now I've background on NetDevOps - Network Automation and DevNet technologies adnd I'm transforming network operations through code. I automate multi-vendor networks and build CI/CD pipelines for network infrastructure.
 
-- 🔧 **Network Administrator:** Cisco, Dell, HP, Allied Telesis, Ubiquiti, Aruba
+- 🔧 **Network Administrator:** Cisco, Aruba, Dell, HP, Allied Telesis, MikroTik, Ubiquiti
 - 🛡️ **Firewall Administrator:** Fortinet (FortiGate, FortiAnalyzer, FortiManager, FortiWeb, FortiEMS, FortiAuthenticator), Palo Alto Networks, Check Point
-- 🐧 **Systems Administrator:** Linux Administrator (Ubuntu, Debian, Alma, Arch, Rocky)
+- 🐧 **Systems Administrator:** Linux Administrator (Ubuntu LTS, Debian, RHEL, Rocky Linux)
 - 🖥️ **Virtualization:** VMware vSphere, vCenter, Proxmox, Docker, LXC
-- 🤖 **Automation:** Ansible/AWX, Python, Nornir, Netmiko, NAPALM, pyATS/Genie, Batfish
+- 🤖 **NetDevOps - Network Automation:** Ansible/AWX, Python, Nornir, Netmiko, NAPALM, pyATS/Genie, Jinja2, Batfish
 - 📊 **Network Source of Truth:** NetBox, Nautobot
 - 🇨🇴 **Based in:** Bogotá, Colombia
+
+I bridge the gap between traditional NetOps and modern DevOps practices — automating infrastructure deployments, building CI/CD pipelines for network configs, and implementing **Network as Code**.
 
 ---
 

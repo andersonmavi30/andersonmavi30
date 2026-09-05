@@ -54,7 +54,7 @@ I bridge the gap between traditional NetOps and modern DevOps practices — auto
 
 - **Fortinet:** NSE 4, NSE 5, NSE 6, and NSE 7
 - **Linux:** LPIC-1
-- **Current roadmap:** RHCSA/RHCE, AWS CloudOps, Cisco AI, and NVIDIA AI Operations
+- **Current roadmap:** RHCSA, CCNA Automation, CCNA Routing & Switching, AWS CloudOps, Cisco AI, and NVIDIA AI Operations
 
 ---
 

@@ -50,6 +50,14 @@ I bridge the gap between traditional NetOps and modern DevOps practices — auto
 
 ---
 
+## 🏅 Certifications & Learning
+
+- **Fortinet:** NSE 4, NSE 5, NSE 6, and NSE 7
+- **Linux:** LPIC-1
+- **Current roadmap:** RHCSA/RHCE, AWS CloudOps, Cisco AI, and NVIDIA AI Operations
+
+---
+
 ## 📊 GitHub Stats
 
 <div align="center">

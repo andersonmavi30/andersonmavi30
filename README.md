@@ -86,6 +86,17 @@ I bridge the gap between traditional NetOps and modern DevOps practices — auto
 
 ---
 
+## ✅ Project Status
+
+| Project | Last Commit | Pipeline |
+|---------|-------------|----------|
+| **network_automation** | ![Last Commit](https://img.shields.io/github/last-commit/andersonmavi30/network_automation?style=flat&label=Last%20commit) | Jenkins → AWX |
+| **firewall_automation** | ![Last Commit](https://img.shields.io/github/last-commit/andersonmavi30/firewall_automation?style=flat&label=Last%20commit) | Ansible/AWX |
+| **docker_network_automation** | ![Last Commit](https://img.shields.io/github/last-commit/andersonmavi30/docker_network_automation?style=flat&label=Last%20commit) | [![Docker Build](https://github.com/andersonmavi30/docker_network_automation/actions/workflows/docker.yml/badge.svg?branch=main)](https://github.com/andersonmavi30/docker_network_automation/actions/workflows/docker.yml) |
+| **containerlab** | ![Last Commit](https://img.shields.io/github/last-commit/andersonmavi30/containerlab?style=flat&label=Last%20commit) | Infrastructure as Code labs |
+
+---
+
 ## 🎥 Latest Content
 
 - [Cisco Network Automation with Ansible](https://www.youtube.com/watch?v=RFqPiwiMiE8)

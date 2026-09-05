@@ -50,6 +50,10 @@ I bridge the gap between traditional NetOps and modern DevOps practices — auto
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=andersonmavi30&theme=github_dark" alt="GitHub Stats" />
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=andersonmavi30&theme=github_dark" alt="Top Languages" />
 
+  <p>
+    <img src="https://komarev.com/ghpvc/?username=andersonmavi30&label=Profile%20Views&color=00ff88&style=flat" alt="Profile Views" />
+  </p>
+
 </div>
 
 ---

@@ -123,6 +123,20 @@ I maintain [**21 public Docker repositories**](https://hub.docker.com/u/anderson
 - **SDN and network labs:** Mininet, Open vSwitch, OpenDaylight, and Mininet Full
 - **Infrastructure:** Ubuntu, Rocky Linux, AlmaLinux, Arch Linux, Apache, and NGINX
 
+### 📦 Featured Image Pulls
+
+<p>
+  <a href="https://hub.docker.com/r/andersonmavi30/network_automation">
+    <img src="https://img.shields.io/docker/pulls/andersonmavi30/network_automation?style=flat&logo=docker&label=network_automation" alt="Network Automation Docker Pulls" />
+  </a>
+  <a href="https://hub.docker.com/r/andersonmavi30/docker_network_automation">
+    <img src="https://img.shields.io/docker/pulls/andersonmavi30/docker_network_automation?style=flat&logo=docker&label=docker_network_automation" alt="Docker Network Automation Pulls" />
+  </a>
+  <a href="https://hub.docker.com/r/andersonmavi30/docker_firewall_automation">
+    <img src="https://img.shields.io/docker/pulls/andersonmavi30/docker_firewall_automation?style=flat&logo=docker&label=docker_firewall_automation" alt="Docker Firewall Automation Pulls" />
+  </a>
+</p>
+
 ---
 
 

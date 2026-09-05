@@ -44,10 +44,11 @@ I bridge the gap between traditional NetOps and modern DevOps practices — auto
 ## 📊 GitHub Stats
 
 <div align="center">
-  
-  ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=andersonmavi30&show_icons=true&theme=dark&bg_color=0d1117&title_color=00ff88&icon_color=58a6ff&text_color=c9d1d9&border_color=30363d)
-  
-  ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=andersonmavi30&layout=compact&theme=dark&bg_color=0d1117&title_color=00ff88&text_color=c9d1d9&border_color=30363d)
+
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=andersonmavi30&theme=github_dark" alt="GitHub Profile Details" />
+
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=andersonmavi30&theme=github_dark" alt="GitHub Stats" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=andersonmavi30&theme=github_dark" alt="Top Languages" />
 
 </div>
 
@@ -57,10 +58,10 @@ I bridge the gap between traditional NetOps and modern DevOps practices — auto
 
 | Project | Description | Stars | Tech |
 |---------|-------------|-------|------|
-| **[network_automation](https://github.com/andersonmavi30/network_automation)** | Multi-vendor NetDevOps CI/CD labs | ⭐️ 2 | Ansible/AWX, Python, NetBox, Batfish |
-| **[firewall_automation](https://github.com/andersonmavi30/firewall_automation)** | Firewall automation & CI/CD | ⭐️ 1 | Python, Ansible |
-| **[docker_network_automation](https://github.com/andersonmavi30/docker_network_automation)** | NetDevOps Docker environment — [19 public images](https://hub.docker.com/u/andersonmavi30) | ⭐️ 4 | Docker, Dockerfile |
-| **[containerlab](https://github.com/andersonmavi30/containerlab)** | Infrastructure as Code labs | ⭐️ 1 | Containerlab |
+| **[network_automation](https://github.com/andersonmavi30/network_automation)** | Multi-vendor NetDevOps CI/CD labs | ![GitHub Repo stars](https://img.shields.io/github/stars/andersonmavi30/network_automation?style=flat&label=Stars) | Ansible/AWX, Python, NetBox, Batfish |
+| **[firewall_automation](https://github.com/andersonmavi30/firewall_automation)** | Firewall automation & CI/CD | ![GitHub Repo stars](https://img.shields.io/github/stars/andersonmavi30/firewall_automation?style=flat&label=Stars) | Python, Ansible |
+| **[docker_network_automation](https://github.com/andersonmavi30/docker_network_automation)** | NetDevOps Docker environment — [21 public repositories](https://hub.docker.com/u/andersonmavi30) | ![GitHub Repo stars](https://img.shields.io/github/stars/andersonmavi30/docker_network_automation?style=flat&label=Stars) | Docker, Dockerfile |
+| **[containerlab](https://github.com/andersonmavi30/containerlab)** | Infrastructure as Code labs | ![GitHub Repo stars](https://img.shields.io/github/stars/andersonmavi30/containerlab?style=flat&label=Stars) | Containerlab |
 
 ---
 
@@ -94,10 +95,12 @@ I bridge the gap between traditional NetOps and modern DevOps practices — auto
 
 ## 🐳 Docker Hub
 
-I maintain [**19 public Docker images**](https://hub.docker.com/u/andersonmavi30) for network automation, including:
-- NetBox, Ansible/AWX, FortiAnalyzer, FortiManager
-- SDN controllers (NBI/SBI), Mininet with OpenFlow
-- Network tools, web servers, and various Linux distros
+I maintain [**21 public Docker repositories**](https://hub.docker.com/u/andersonmavi30) focused on network automation, cybersecurity, infrastructure, and lab environments, including:
+
+- **Automation environments:** Network Automation, Docker Network Automation, and Docker Firewall Automation
+- **Network and security platforms:** NetBox, FortiAnalyzer, FortiManager, and PAN-Ansible
+- **SDN and network labs:** Mininet, Open vSwitch, OpenDaylight, and Mininet Full
+- **Infrastructure:** Ubuntu, Rocky Linux, AlmaLinux, Arch Linux, Apache, and NGINX
 
 ---
 

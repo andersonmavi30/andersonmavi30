@@ -41,6 +41,18 @@ I bridge the gap between traditional NetOps and modern DevOps practices — auto
 
 ---
 
+## ⚙️ How I Automate Networks
+
+```mermaid
+flowchart LR
+    A["NetBox / Git"] --> B["Jenkins CI/CD"]
+    B --> C["AWX / Ansible"]
+    C --> D["Multi-vendor Network"]
+    D --> E["Batfish / pyATS Validation"]
+```
+
+---
+
 ## 📊 GitHub Stats
 
 <div align="center">

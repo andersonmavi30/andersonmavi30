@@ -41,15 +41,12 @@ I bridge the gap between traditional NetOps and modern DevOps practices — auto
 
 ---
 
-## ⚙️ How I Automate Networks
+## 🚧 Currently Building
 
-```mermaid
-flowchart LR
-    A["NetBox / Git"] --> B["Jenkins CI/CD"]
-    B --> C["AWX / Ansible"]
-    C --> D["Multi-vendor Network"]
-    D --> E["Batfish / pyATS Validation"]
-```
+- End-to-end **Network CI/CD pipelines** with Jenkins orchestrating AWX through its API
+- Automated backups, pre-checks, deployments, post-checks, and rollback workflows
+- Network validation with **Batfish** and **pyATS/Genie**
+- NetBox-driven automation for multi-vendor network infrastructure
 
 ---
 

@@ -86,6 +86,16 @@ I bridge the gap between traditional NetOps and modern DevOps practices — auto
 
 ---
 
+## 🎥 Latest Content
+
+- [Cisco Network Automation with Ansible](https://www.youtube.com/watch?v=RFqPiwiMiE8)
+- [Publishing Web Services with FortiWeb](https://www.youtube.com/watch?v=j3kJNs3oHP8)
+- [DoS Attack and IPS Policy](https://www.youtube.com/watch?v=sbXFHW9OGwY)
+
+[![YouTube](https://img.shields.io/badge/View_more_on_YouTube-FF0000?style=flat&logo=youtube&logoColor=white)](https://youtube.com/@andersonmvnetworks)
+
+---
+
 ## 🛠️ Tech Stack
 **Network & Security:**
 ![Cisco](https://img.shields.io/badge/Cisco-049FD9?style=flat&logo=cisco&logoColor=white)

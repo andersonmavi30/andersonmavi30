@@ -11,33 +11,42 @@
 </h1>
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/anderson-martinez-virviescas-b5b79b106"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-  <a href="https://youtube.com/@andersonmvnetworks"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" /></a>
-  <a href="https://gitlab.com/andersonmavi30/profile"><img src="https://img.shields.io/badge/GitLab-FC6D26?style=for-the-badge&logo=gitlab&logoColor=white" /></a>
-  <a href="https://hub.docker.com/u/andersonmavi30"><img src="https://img.shields.io/badge/Docker_Hub-2496ED?style=for-the-badge&logo=docker&logoColor=white" /></a>
+  <a href="https://www.linkedin.com/in/anderson-martinez-virviescas-b5b79b106">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="https://youtube.com/@andersonmvnetworks">
+    <img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" />
+  </a>
+  <a href="https://gitlab.com/andersonmavi30/profile">
+    <img src="https://img.shields.io/badge/GitLab-FC6D26?style=for-the-badge&logo=gitlab&logoColor=white" />
+  </a>
+  <a href="https://hub.docker.com/u/andersonmavi30">
+    <img src="https://img.shields.io/badge/Docker_Hub-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
+  </a>
 </p>
 
 ---
 
 ## 🚀 Sobre mí
 
-Administrador de redes y firewalls con experiencia práctica en infraestructura multi-vendor. Actualmente enfoco mi desarrollo profesional en **NetDevOps, Network Automation y DevNet**, transformando operaciones de red mediante código y construyendo pipelines CI/CD para infraestructura.
+Administrador de redes, administrador de firewalls y administrador de sistemas Linux con experiencia práctica en la administración, implementación y troubleshooting de redes e infraestructura multi-vendor. También tengo experiencia en virtualización, cloud pública y balanceadores de carga. Actualmente sigo mi roadmap profesional con un fuerte enfoque en **NetDevOps — Network Automation y tecnologías DevNet — e inteligencia artificial**, transformando las operaciones de red mediante código. Automatizo redes multi-vendor y construyo procesos CI/CD para infraestructura de red.
 
-- 🔧 **Administración de redes:** Cisco, Aruba, Dell, HP, Allied Telesis, MikroTik, Ubiquiti
-- 🛡️ **Administración de firewalls:** Fortinet (FortiGate, FortiAnalyzer, FortiManager, FortiWeb, FortiEMS, FortiAuthenticator), Palo Alto Networks, Check Point
-- 🐧 **Administración de sistemas:** Linux (Ubuntu LTS, Debian, RHEL, Rocky Linux)
-- 🖥️ **Virtualización:** VMware vSphere, vCenter, Proxmox, Docker, LXC
+- 🔧 **Administrador de redes:** Cisco, Aruba, Dell, HP, Allied Telesis, MikroTik, Ubiquiti
+- 🛡️ **Administrador de firewalls:** Fortinet (FortiGate, FortiAnalyzer, FortiManager, FortiWeb, FortiEMS, FortiAuthenticator), Palo Alto Networks, Check Point
+- 🐧 **Administrador de sistemas:** Linux (Ubuntu LTS, Debian, RHEL, Rocky Linux)
+- 🖥️ **Virtualización/Cloud:** VMware vSphere, vCenter, Proxmox, Docker, LXC, AWS, Azure, GCP
+- ⚖️ **Load Balancers:** F5 LTM, A10 ADC
 - 🤖 **NetDevOps - Network Automation:** Ansible/AWX, Python, Nornir, Netmiko, NAPALM, pyATS/Genie, Jinja2, Batfish
 - 📊 **Network Source of Truth:** NetBox, Nautobot
 - 🇨🇴 **Ubicación:** Bogotá, Colombia
 
-Busco integrar las prácticas tradicionales de NetOps con enfoques modernos de DevOps, automatizando despliegues de infraestructura, desarrollando pipelines CI/CD para configuraciones de red e implementando **Network as Code**.
+Integro las prácticas tradicionales de NetOps con enfoques modernos de DevOps, automatizando despliegues de infraestructura, construyendo pipelines CI/CD para configuraciones de red e implementando **Network as Code**.
 
 ---
 
 ## 🚧 Actualmente construyendo
 
-- Pipelines **Network CI/CD** de extremo a extremo con Jenkins orquestando AWX mediante API
+- Pipelines **Network CI/CD** de extremo a extremo con Jenkins orquestando AWX mediante su API
 - Backups, pre-checks, despliegues, post-checks y rollback automatizados
 - Validación de red con **Batfish** y **pyATS/Genie**
 - Automatización multi-vendor basada en NetBox
@@ -55,10 +64,16 @@ Busco integrar las prácticas tradicionales de NetOps con enfoques modernos de D
 ## 📊 GitHub Stats
 
 <div align="center">
+
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=andersonmavi30&theme=github_dark" alt="GitHub Profile Details" />
+
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=andersonmavi30&theme=github_dark" alt="GitHub Stats" />
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=andersonmavi30&theme=github_dark" alt="Top Languages" />
-  <p><img src="https://komarev.com/ghpvc/?username=andersonmavi30&label=Profile%20Views&color=00ff88&style=flat" alt="Profile Views" /></p>
+
+  <p>
+    <img src="https://komarev.com/ghpvc/?username=andersonmavi30&label=Profile%20Views&color=00ff88&style=flat" alt="Profile Views" />
+  </p>
+
 </div>
 
 ---
@@ -97,13 +112,30 @@ Busco integrar las prácticas tradicionales de NetOps con enfoques modernos de D
 
 ## 🛠️ Stack tecnológico
 
-**Redes y seguridad:** Cisco, Fortinet, Palo Alto Networks, Check Point
+**Redes y seguridad:**
+![Cisco](https://img.shields.io/badge/Cisco-049FD9?style=flat&logo=cisco&logoColor=white)
+![Fortinet](https://img.shields.io/badge/Fortinet-EE2E24?style=flat&logo=fortinet&logoColor=white)
+![Palo Alto](https://img.shields.io/badge/Palo_Alto-FF6B35?style=flat)
+![Check Point](https://img.shields.io/badge/Check_Point-FFCC00?style=flat)
 
-**Automation & DevOps:** Python, Ansible/AWX, Docker, Jenkins, GitLab, Terraform
+**Automation & DevOps:**
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
+![Ansible](https://img.shields.io/badge/Ansible/AWX-EE0000?style=flat&logo=ansible&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)
+![Jenkins](https://img.shields.io/badge/Jenkins-D24939?style=flat&logo=jenkins&logoColor=white)
+![GitLab](https://img.shields.io/badge/GitLab-FC6D26?style=flat&logo=gitlab&logoColor=white)
+![Terraform](https://img.shields.io/badge/Terraform-7B42BC?style=flat&logo=terraform&logoColor=white)
 
-**Herramientas de red:** NetBox, Nornir, pyATS/Genie, Batfish
+**Herramientas de red:**
+![NetBox](https://img.shields.io/badge/NetBox-00FF88?style=flat)
+![Nornir](https://img.shields.io/badge/Nornir-000000?style=flat)
+![pyATS](https://img.shields.io/badge/pyATS/Genie-0055A4?style=flat)
+![Batfish](https://img.shields.io/badge/Batfish-00D4AA?style=flat)
 
-**Virtualización:** VMware vSphere, Proxmox, Linux
+**Virtualización:**
+![VMware](https://img.shields.io/badge/VMware_vSphere-696566?style=flat&logo=vmware&logoColor=white)
+![Proxmox](https://img.shields.io/badge/Proxmox-E57000?style=flat)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black)
 
 ---
 
@@ -115,6 +147,20 @@ Mantengo [**21 repositorios Docker públicos**](https://hub.docker.com/u/anderso
 - **Plataformas de red y seguridad:** NetBox, FortiAnalyzer, FortiManager y PAN-Ansible
 - **SDN y laboratorios de red:** Mininet, Open vSwitch, OpenDaylight y Mininet Full
 - **Infraestructura:** Ubuntu, Rocky Linux, AlmaLinux, Arch Linux, Apache y NGINX
+
+### 📦 Pulls de imágenes destacadas
+
+<p>
+  <a href="https://hub.docker.com/r/andersonmavi30/network_automation">
+    <img src="https://img.shields.io/docker/pulls/andersonmavi30/network_automation?style=flat&logo=docker&label=network_automation" alt="Network Automation Docker Pulls" />
+  </a>
+  <a href="https://hub.docker.com/r/andersonmavi30/docker_network_automation">
+    <img src="https://img.shields.io/docker/pulls/andersonmavi30/docker_network_automation?style=flat&logo=docker&label=docker_network_automation" alt="Docker Network Automation Pulls" />
+  </a>
+  <a href="https://hub.docker.com/r/andersonmavi30/docker_firewall_automation">
+    <img src="https://img.shields.io/docker/pulls/andersonmavi30/docker_firewall_automation?style=flat&logo=docker&label=docker_firewall_automation" alt="Docker Firewall Automation Pulls" />
+  </a>
+</p>
 
 ---
 

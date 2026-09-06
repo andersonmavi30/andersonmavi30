@@ -29,7 +29,7 @@
 
 ## 🚀 About Me
 
-Network administrator, firewall administrator, and Linux administrator with hands-on experience in the administration, implementation, and troubleshooting of multi-vendor networks and infrastructure; I also have experience in virtualization, public cloud, and load balancers. I am currently following my career roadmap with a strong focus on NetDevOps expertise— network automation and DevNet technologies — AI — and I'm transforming network operations through code. I automate multi-vendor networks and build CI/CD processes for network infrastructure.
+Network administrator, firewall administrator, and Linux administrator with hands-on experience in the administration, implementation, and troubleshooting of multi-vendor networks and infrastructure; I also have experience in virtualization, public cloud, and load balancers. I am currently following my career roadmap with a strong focus on NetDevOps expertise — network automation and DevNet technologies — AI and I'm transforming network operations through code. I automate multi-vendor networks and build CI/CD processes for network infrastructure.
 
 - 🔧 **Network Administrator:** Cisco, Aruba, Dell, HP, Allied Telesis, MikroTik, Ubiquiti
 - 🛡️ **Firewall Administrator:** Fortinet (FortiGate, FortiAnalyzer, FortiManager, FortiWeb, FortiEMS, FortiAuthenticator), Palo Alto Networks, Check Point

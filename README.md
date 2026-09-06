@@ -29,12 +29,13 @@
 
 ## 🚀 About Me
 
-Network Administrator & Firewall Administrator with hands-on experience in multi-vendor network and infrastructure administration, but now I've background on NetDevOps - Network Automation and DevNet technologies and I'm transforming network operations through code. I automate multi-vendor networks and build CI/CD pipelines for network infrastructure.
+Network administrator, firewall administrator, and Linux administrator with hands-on experience in the administration, implementation, and troubleshooting of multi-vendor networks and infrastructure; I also have experience in virtualization, public cloud, and load balancers. I am currently following my career roadmap with a strong focus on NetDevOps expertise— network automation and DevNet technologies — AI — and I'm transforming network operations through code. I automate multi-vendor networks and build CI/CD processes for network infrastructure.
 
 - 🔧 **Network Administrator:** Cisco, Aruba, Dell, HP, Allied Telesis, MikroTik, Ubiquiti
 - 🛡️ **Firewall Administrator:** Fortinet (FortiGate, FortiAnalyzer, FortiManager, FortiWeb, FortiEMS, FortiAuthenticator), Palo Alto Networks, Check Point
 - 🐧 **Systems Administrator:** Linux Administrator (Ubuntu LTS, Debian, RHEL, Rocky Linux)
-- 🖥️ **Virtualization:** VMware vSphere, vCenter, Proxmox, Docker, LXC
+- 🖥️ **Virtualization/Cloud:** VMware vSphere, vCenter, Proxmox, Docker, LXC, AWS, Azure, GCP
+- ⚖️ **Load Balancers:** f5 LTM, A10 ADC
 - 🤖 **NetDevOps - Network Automation:** Ansible/AWX, Python, Nornir, Netmiko, NAPALM, pyATS/Genie, Jinja2, Batfish
 - 📊 **Network Source of Truth:** NetBox, Nautobot
 - 🇨🇴 **Based in:** Bogotá, Colombia

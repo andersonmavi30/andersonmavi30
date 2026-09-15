@@ -160,8 +160,8 @@ Mantengo [**22 repositorios Docker públicos**](https://hub.docker.com/u/anderso
   <a href="https://hub.docker.com/r/andersonmavi30/docker_firewall_automation">
     <img src="https://img.shields.io/docker/pulls/andersonmavi30/docker_firewall_automation?style=flat&logo=docker&label=docker_firewall_automation" alt="Docker Firewall Automation Pulls" />
   </a>
-  <a href="https://hub.docker.com/r/andersonmavi30/loadbalancers_automation">
-    <img src="https://img.shields.io/docker/pulls/andersonmavi30/loadbalancers_automation?style=flat&logo=docker&label=loadbalancers_automation" alt="Load Balancers Automation Docker Pulls" />
+  <a href="https://hub.docker.com/r/andersonmavi30/docker_loadbalancers_automation">
+    <img src="https://img.shields.io/docker/pulls/andersonmavi30/docker_loadbalancers_automation?style=flat&logo=docker&label=docker_loadbalancers_automation" alt="Docker Load Balancers Automation Pulls" />
   </a>
 </p>
 

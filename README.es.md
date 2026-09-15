@@ -84,7 +84,7 @@ Integro las prácticas tradicionales de NetOps con enfoques modernos de DevOps, 
 |---------|-------------|-------|------------|
 | **[network_automation](https://github.com/andersonmavi30/network_automation)** | Labs NetDevOps CI/CD multi-vendor | ![GitHub Repo stars](https://img.shields.io/github/stars/andersonmavi30/network_automation?style=flat&label=Stars) | Ansible/AWX, Python, NetBox, Batfish |
 | **[firewall_automation](https://github.com/andersonmavi30/firewall_automation)** | Automatización de firewalls y CI/CD | ![GitHub Repo stars](https://img.shields.io/github/stars/andersonmavi30/firewall_automation?style=flat&label=Stars) | Python, Ansible |
-| **[docker_network_automation](https://github.com/andersonmavi30/docker_network_automation)** | Entorno Docker para NetDevOps — [21 repositorios públicos](https://hub.docker.com/u/andersonmavi30) | ![GitHub Repo stars](https://img.shields.io/github/stars/andersonmavi30/docker_network_automation?style=flat&label=Stars) | Docker, Dockerfile |
+| **[docker_network_automation](https://github.com/andersonmavi30/docker_network_automation)** | Entorno Docker para NetDevOps — [22 repositorios públicos](https://hub.docker.com/u/andersonmavi30) | ![GitHub Repo stars](https://img.shields.io/github/stars/andersonmavi30/docker_network_automation?style=flat&label=Stars) | Docker, Dockerfile |
 | **[containerlab](https://github.com/andersonmavi30/containerlab)** | Labs de Infrastructure as Code | ![GitHub Repo stars](https://img.shields.io/github/stars/andersonmavi30/containerlab?style=flat&label=Stars) | Containerlab |
 
 ---
@@ -141,7 +141,7 @@ Integro las prácticas tradicionales de NetOps con enfoques modernos de DevOps, 
 
 ## 🐳 Docker Hub
 
-Mantengo [**21 repositorios Docker públicos**](https://hub.docker.com/u/andersonmavi30) enfocados en automatización de redes, ciberseguridad, infraestructura y entornos de laboratorio, incluyendo:
+Mantengo [**22 repositorios Docker públicos**](https://hub.docker.com/u/andersonmavi30) enfocados en automatización de redes, ciberseguridad, infraestructura y entornos de laboratorio, incluyendo:
 
 - **Entornos de automatización:** Network Automation, Docker Network Automation y Docker Firewall Automation
 - **Plataformas de red y seguridad:** NetBox, FortiAnalyzer, FortiManager y PAN-Ansible
@@ -159,6 +159,9 @@ Mantengo [**21 repositorios Docker públicos**](https://hub.docker.com/u/anderso
   </a>
   <a href="https://hub.docker.com/r/andersonmavi30/docker_firewall_automation">
     <img src="https://img.shields.io/docker/pulls/andersonmavi30/docker_firewall_automation?style=flat&logo=docker&label=docker_firewall_automation" alt="Docker Firewall Automation Pulls" />
+  </a>
+  <a href="https://hub.docker.com/r/andersonmavi30/loadbalancers_automation">
+    <img src="https://img.shields.io/docker/pulls/andersonmavi30/loadbalancers_automation?style=flat&logo=docker&label=loadbalancers_automation" alt="Load Balancers Automation Docker Pulls" />
   </a>
 </p>
 

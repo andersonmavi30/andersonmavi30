@@ -140,7 +140,7 @@ I bridge the gap between traditional NetOps and modern DevOps practices — auto
 
 ## 🐳 Docker Hub
 
-I maintain [**22 public Docker repositories**](https://hub.docker.com/u/andersonmavi30) focused on network automation, cybersecurity, infrastructure, and lab environments, including:
+I maintain [**23 public Docker repositories**](https://hub.docker.com/u/andersonmavi30) focused on network automation, cybersecurity, infrastructure, and lab environments, including:
 
 - **Automation environments:** Network Automation, Docker Network Automation, Docker Firewall Automation, Docker Load Balancers Automation, and Docker Servers Automation
 - **Network and security platforms:** NetBox, FortiAnalyzer, FortiManager, and PAN-Ansible

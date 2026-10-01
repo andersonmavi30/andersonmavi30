@@ -89,6 +89,37 @@ Integro las prácticas tradicionales de NetOps con enfoques modernos de DevOps, 
 
 ---
 
+## 🧩 Portafolio / Ecosistema de Automatización
+
+Mi trabajo de automatización está organizado en cuatro dominios complementarios de infraestructura. Cada dominio cuenta con un repositorio dedicado de automatización y un entorno de ejecución contenerizado para mantener herramientas reproducibles.
+
+| Dominio | Repositorio de automatización | Entorno Docker | Enfoque |
+|---|---|---|---|
+| 🌐 **Redes** | [network_automation](https://github.com/andersonmavi30/network_automation) | [docker_network_automation](https://github.com/andersonmavi30/docker_network_automation) | NetDevOps, CI/CD, NetBox, Ansible/AWX, Python, validación |
+| 🛡️ **Firewalls** | [firewall_automation](https://github.com/andersonmavi30/firewall_automation) | [docker_firewall_automation](https://github.com/andersonmavi30/docker_firewall_automation) | Automatización multi-vendor, backups, APIs, Ansible |
+| ⚖️ **Load Balancers** | [loadbalancers_automation](https://github.com/andersonmavi30/loadbalancers_automation) | [docker_loadbalancers_automation](https://github.com/andersonmavi30/docker_loadbalancers_automation) | Automatización de F5 Networks, A10 Networks y NetScaler ADC |
+| 🐧 **Servidores Linux** | [servers_automation](https://github.com/andersonmavi30/servers_automation) | [docker_servers_automation](https://github.com/andersonmavi30/docker_servers_automation) | RHEL, Rocky Linux, Ansible, Python, automatización de infraestructura |
+
+```text
+Git / Source of Truth
+        │
+        ▼
+Código de automatización
+        │
+        ▼
+Herramientas contenerizadas
+        │
+        ▼
+Redes ─ Firewalls ─ Load Balancers ─ Servidores Linux
+        │
+        ▼
+Validación / Reportes / Remediación
+```
+
+> Un mismo enfoque de automatización aplicado a múltiples dominios de infraestructura: código versionado, entornos de ejecución reproducibles y validación progresivamente automatizada.
+
+---
+
 ## ✅ Estado de proyectos
 
 | Proyecto | Último commit | Pipeline |

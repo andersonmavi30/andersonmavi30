@@ -89,6 +89,37 @@ I bridge the gap between traditional NetOps and modern DevOps practices — auto
 
 ---
 
+## 🧩 Automation Portfolio / Ecosystem
+
+My automation work is organized into four complementary infrastructure domains. Each domain has a dedicated automation repository and a containerized execution environment for reproducible tooling.
+
+| Domain | Automation Repository | Docker Environment | Focus |
+|---|---|---|---|
+| 🌐 **Networks** | [network_automation](https://github.com/andersonmavi30/network_automation) | [docker_network_automation](https://github.com/andersonmavi30/docker_network_automation) | NetDevOps, CI/CD, NetBox, Ansible/AWX, Python, validation |
+| 🛡️ **Firewalls** | [firewall_automation](https://github.com/andersonmavi30/firewall_automation) | [docker_firewall_automation](https://github.com/andersonmavi30/docker_firewall_automation) | Multi-vendor firewall automation, backups, APIs, Ansible |
+| ⚖️ **Load Balancers** | [loadbalancers_automation](https://github.com/andersonmavi30/loadbalancers_automation) | [docker_loadbalancers_automation](https://github.com/andersonmavi30/docker_loadbalancers_automation) | F5 Networks, A10 Networks, NetScaler ADC automation |
+| 🐧 **Linux Servers** | [servers_automation](https://github.com/andersonmavi30/servers_automation) | [docker_servers_automation](https://github.com/andersonmavi30/docker_servers_automation) | RHEL, Rocky Linux, Ansible, Python, infrastructure automation |
+
+```text
+Git / Source of Truth
+        │
+        ▼
+Automation Code
+        │
+        ▼
+Containerized Tooling
+        │
+        ▼
+Networks ─ Firewalls ─ Load Balancers ─ Linux Servers
+        │
+        ▼
+Validation / Reporting / Remediation
+```
+
+> One automation approach, multiple infrastructure domains: versioned code, reproducible execution environments and progressively automated validation.
+
+---
+
 ## ✅ Project Status
 
 | Project | Last Commit | Pipeline |

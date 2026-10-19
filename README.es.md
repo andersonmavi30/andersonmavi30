@@ -70,9 +70,18 @@ Integro las prácticas tradicionales de NetOps con enfoques modernos de DevOps, 
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=andersonmavi30&theme=github_dark" alt="GitHub Stats" />
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=andersonmavi30&theme=github_dark" alt="Top Languages" />
 
+  <h3>⚡ Pulso del perfil en vivo</h3>
+
   <p>
-    <img src="https://komarev.com/ghpvc/?username=andersonmavi30&label=Profile%20Views&color=00ff88&style=flat" alt="Profile Views" />
+    <a href="https://hits.sh/github.com/andersonmavi30/" target="_blank" rel="noopener">
+      <img src="https://hits.sh/github.com/andersonmavi30.svg?view=today-total&style=for-the-badge&label=VISITAS%20AL%20PERFIL&color=00ff88&labelColor=0d1117" alt="Visitas al perfil" />
+    </a>
+    <a href="https://github.com/andersonmavi30?tab=followers">
+      <img src="https://img.shields.io/github/followers/andersonmavi30?style=for-the-badge&label=FOLLOWERS&labelColor=0d1117&color=00ff88" alt="Seguidores en GitHub" />
+    </a>
   </p>
+
+  <sub>Haz clic en el contador de visitas para abrir las estadísticas de hits.</sub>
 
 </div>
 

@@ -70,9 +70,18 @@ I bridge the gap between traditional NetOps and modern DevOps practices — auto
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=andersonmavi30&theme=github_dark" alt="GitHub Stats" />
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=andersonmavi30&theme=github_dark" alt="Top Languages" />
 
+  <h3>⚡ Live Profile Pulse</h3>
+
   <p>
-    <img src="https://komarev.com/ghpvc/?username=andersonmavi30&label=Profile%20Views&color=00ff88&style=flat" alt="Profile Views" />
+    <a href="https://hits.sh/github.com/andersonmavi30/" target="_blank" rel="noopener">
+      <img src="https://hits.sh/github.com/andersonmavi30.svg?view=today-total&style=for-the-badge&label=PROFILE%20VISITS&color=00ff88&labelColor=0d1117" alt="Profile Visits" />
+    </a>
+    <a href="https://github.com/andersonmavi30?tab=followers">
+      <img src="https://img.shields.io/github/followers/andersonmavi30?style=for-the-badge&label=FOLLOWERS&labelColor=0d1117&color=00ff88" alt="GitHub Followers" />
+    </a>
   </p>
+
+  <sub>Click the visit counter to open live hit statistics.</sub>
 
 </div>
 
